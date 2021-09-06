@@ -1,6 +1,6 @@
 {
   "name": "access-pwa-styleguide",
-  "version": "1.0.0",
+  "version": "0.2.0",
   "description": "Javascript Access PWA Styleguide implementation",
   "scripts": {
     "build": "tsc -p tsconfig.json",
@@ -10,10 +10,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://gitlab.peaq.io/internal/bdls/access-pwa-styleguide.git"
+    "url": "https://github.com/peaqio/access-pwa-styleguide.git"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Alina Zorilo",
+  "license": "UNLICENSED",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "peerDependencies": {
